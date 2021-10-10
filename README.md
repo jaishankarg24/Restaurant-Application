@@ -44,7 +44,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![DEMO](../master/public/assets/images/Menu.png)
 
 # Json-server 
-![DEMO](../master/public/assets/images/json-server running on port 3001.png)
+![DEMO](../master/public/assets/images/json-server.png)
 
 
 
