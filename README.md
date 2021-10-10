@@ -13,7 +13,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-# User Interface
+# Home Interface
 ![DEMO](../master/public/assets/images/Home.png)
 
 # Features
@@ -39,6 +39,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * 3 - json-server watchs on db.json, any changes made by the user it will reflected in the db.json file.
 * 4 - runs on port 3001, because by default react runs on port 3000
 * 5 - with the delay 2000 milisec
+
+# Menu Interface
+![DEMO](../master/public/assets/images/Menu.png)
+
+# Json-server 
+![DEMO](../master/public/assets/images/json-server running on port 3001.png)
 
 
 
