@@ -43,8 +43,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 # Menu Interface
 ![DEMO](../master/public/assets/images/Menu.png)
 
-# Json-server 
-![DEMO](../master/public/assets/images/json-server.png)
+
 
 
 
